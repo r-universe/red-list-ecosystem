@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "redlistr"]
+	path = redlistr
+	url = https://github.com/red-list-ecosystem/redlistr
+	shallow = true
+	registered = true
